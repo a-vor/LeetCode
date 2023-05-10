@@ -12,8 +12,10 @@ public class SpiralMatrix {
     }
 
     private static void outputMatrix(int[][] matrix) {
-        if (matrix == null)
+        if (matrix == null) {
             System.out.println((String) null);
+            return;
+        }
         for (int i = 0; i < matrix[0].length; i++) {
             for (int j = 0; j < matrix.length; j++) {
                 System.out.print(matrix[i][j] + " ");

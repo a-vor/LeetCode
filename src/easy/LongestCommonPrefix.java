@@ -7,10 +7,10 @@ import java.util.Scanner;
 public class LongestCommonPrefix {
     public static void main(String[] args) {
         String[] str = input();
-        ouptut(longestPrefix(str));
+        output(longestPrefix(str));
     }
 
-    private static void ouptut(String s) {
+    private static void output(String s) {
         System.out.println(s);
     }
 

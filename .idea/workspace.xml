@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acaea583-2dfd-4906-88ad-ac57d71a8fde" name="Changes" comment="PalindromeNumber.java">
-      <change afterPath="$PROJECT_DIR$/src/easy/LongestCommonPrefix.java" afterDir="false" />
+    <list default="true" id="acaea583-2dfd-4906-88ad-ac57d71a8fde" name="Changes" comment="LongestCommonPrefix.java fix typo">
+      <change afterPath="$PROJECT_DIR$/src/easy/ValidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683879887180</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="LongestCommonPrefix.java">
+      <created>1683881383560</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683881383560</updated>
+    </task>
+    <task id="LOCAL-00011" summary="LongestCommonPrefix.java fix typo">
+      <created>1683881437854</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683881437854</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +146,13 @@
     <MESSAGE value="RomanToInteger.java corrected" />
     <MESSAGE value="RomanToInteger.java add comments for the task" />
     <MESSAGE value="PalindromeNumber.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="PalindromeNumber.java" />
+    <MESSAGE value="LongestCommonPrefix.java" />
+    <MESSAGE value="LongestCommonPrefix.java fix typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestCommonPrefix.java fix typo" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$ValidParentheses.ic" NAME="ValidParentheses Coverage Results" MODIFIED="1683883728122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.*</FILTER>
+    </SUITE>
   </component>
 </project>
